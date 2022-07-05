@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: "Gentium Book Plus", serif;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+.container1 {
+  margin: 0;
+}
+.first-div {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(images/donation7.jpg);
+  background-repeat: no-repeat;
+  height: 95vh;
+  width: 100%;
+}
+
+.first-div h1 {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  font-weight: 900;
+  padding-top: 12%;
+}
+.first-div p {
+  font-size: 10px;
+  text-align: center;
+  color: white;
+  font-weight: 100;
+  padding: 15px 25% 5px 25%;
+  margin-bottom: 40px;
+}
+.button-class {
+  font-size: 10px;
+  text-align: center;
+  background-color: #de4343;
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 15px 25px 15px 25px;
+  border-radius: 10px;
+  margin-left: 45%;
+}
