@@ -184,3 +184,54 @@ footer p {
   font-size: 8px;
   margin-top: 10px;
 }
+.extra-container {
+  display: block;
+}
+.EC-div-1 {
+  display: flex;
+}
+.EC-div-1 img {
+  width: 50%;
+}
+.about-company {
+  display: block;
+  background-color: #2d2d37;
+  width: 100%;
+}
+.about-company h1 {
+  color: whitesmoke;
+  font-size: 40px;
+  text-align: left;
+  padding: 10%;
+}
+.about-company p {
+  color: whitesmoke;
+  font-size: 8px;
+  text-align: center;
+  padding: 10px 10% 10px 10%;
+}
+.about-company ul {
+  text-align: left;
+  padding: 10px 10% 10px 10%;
+  margin-bottom: 20px;
+}
+.about-company li {
+  font-size: smaller;
+  color: gray;
+}
+#one,
+#third,
+#fifth {
+  text-align: right;
+}
+.img-size-declare {
+  height: 10px;
+  width: 10px;
+}
+.EC-div-2 {
+  display: flex;
+}
+#abc {
+  text-align: center;
+  color: #de4343;
+}
