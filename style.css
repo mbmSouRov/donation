@@ -143,7 +143,7 @@ body {
   display: flex;
   text-align: center;
   margin-top: 2%;
-  margin-bottom: 2%;
+  margin-bottom: 10%;
   margin-left: 10%;
   margin-right: 10%;
   background-color: #f5ebc1;
@@ -165,4 +165,22 @@ body {
   text-decoration: none;
   padding: 10px 20px 10px 20px;
   border-radius: 0px 5px 5px 0px;
+}
+footer {
+  background-color: #000006;
+  padding-bottom: 4%;
+}
+footer h1 {
+  padding-top: 4%;
+  color: #eb5649;
+  text-align: center;
+  font-family: monospace;
+  font-style: italic;
+  font-size: 30px;
+}
+footer p {
+  color: white;
+  text-align: center;
+  font-size: 8px;
+  margin-top: 10px;
 }
